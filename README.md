@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Flights Booking System**
 
-- 🌱 I’m currently learning **Backend usages Framework**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://rana-devanand.github.io/Portfolio/](https://rana-devanand.github.io/Portfolio/)
-
-- 💬 Ask me about **node , Express**
 
 - 📫 How to reach me **devanandrana168@gmail.com**
 
