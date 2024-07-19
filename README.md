@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana-devanand" alt="rana-devanand" /></a> </p>
 
-- 🔭 I’m currently working on **Flights Booking System**
-
-- 🌱 I’m currently learning **Backend Development**
-
-- 👨‍💻 All of my projects are available at [https://rana-devanand.github.io/Portfolio/](https://rana-devanand.github.io/Portfolio/)
-
-- 📫 How to reach me **devanandrana168@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
